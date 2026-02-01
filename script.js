@@ -33,7 +33,8 @@ noBtn.addEventListener("click", () => {
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "YAYYY 💖🥰";
   subtext.innerHTML = "Bubu said YES 😭✨";
-  img.src = "https://i.imgur.com/VAk1zGk.png";
+  img.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWasau4j1tVH6psibSB1UjKWRwar9YGLciiQ&s";
   noBtn.style.display = "none";
   yesBtn.style.display = "none";
 });
+
